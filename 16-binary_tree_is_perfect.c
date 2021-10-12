@@ -20,7 +20,7 @@ size = binary_tree_size(tree);
 
 /*if (size == (2 << height) - 1), return 1*/
 
-if (size == (1 << height) && left_height == right_height)
+if ((size == (1 << height))&&(left_height == right_height))
 return (1);
 else
 return (0);
@@ -31,7 +31,7 @@ return (0);
  * @tree: pointer to the root node of the tree to measure
  * Return: height of the tree
  */
-int binary_tree_height(const binary_tree_t *tree)
+size_t binary_tree_height(const binary_tree_t *tree)
 {
 int left_height, right_height;
 

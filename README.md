@@ -3,8 +3,5 @@
 
 Input supplied by
 
-[_Derek Clemens_](github.com/urwithinrange),
-[_Christopher Caswell_](github.com/Christopher-Caswell)
-
-Each user can be contacted through their emails at
-[CC](christopher.caswell@rocketmail.com), [DC](iforgotyouremailbro)
+Derek Clemens [_Github_](github.com/urwithinrange) [_Email_](mailto:clemens.derek@hotmail.com?subject=[GitHub]%20Binary%20Trees)</br>
+Christopher Caswell [_Github_](github.com/Christopher-Caswell) [_Email_](mailto:christopher.caswell@rocketmail.com.com?subject=[GitHub]%20Binary%20Trees)
